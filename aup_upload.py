@@ -35,7 +35,7 @@ def determine_remark(level_str):
 def fetch_xml_data():
     """Загружает XML данные из URL, указанного в переменных окружения"""
     try:
-        url = os.getenv("XML_DATA_URL")
+        url = 'https://app.matfmc.ru/AirspaceAvailabilityBulletinXML/tra'
         if not url:
             raise ValueError("XML_DATA_URL не указан в переменных окружения")
 
@@ -64,7 +64,7 @@ def process_tra_zone(tra, target_date):
     """Обрабатывает зону TRA и возвращает данные, если активна в target_date"""
     zc = tra.find("zc").text.strip() if tra.find("zc") is not None else ""
 
-    if "UNNT" not in zc:
+    if "UHHH" not in zc:
         return None
 
     area_code = tra.find("areacode").text.strip() if tra.find("areacode") is not None else ""
