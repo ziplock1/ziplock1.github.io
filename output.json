@@ -1,8 +1,8 @@
 {
     "notice_info": {
-        "valid_wef": "2025-07-29T14:35:29Z",
-        "valid_til": "2025-07-29T15:35:29Z",
-        "released_on": "2025-07-29T14:35:29Z"
+        "valid_wef": "2025-07-29T15:14:54Z",
+        "valid_til": "2025-07-29T16:14:54Z",
+        "released_on": "2025-07-29T15:14:54Z"
     },
     "areas": [
         {
@@ -423,28 +423,10 @@
             "name": "ULR1879",
             "minimum_fl": 0,
             "maximum_fl": 669,
-            "start_datetime": "2025-07-29T07:00:00Z",
-            "end_datetime": "2025-07-29T15:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-07-29"
-        },
-        {
-            "name": "ULR1879",
-            "minimum_fl": 0,
-            "maximum_fl": 669,
             "start_datetime": "2025-07-30T07:00:00Z",
             "end_datetime": "2025-07-30T15:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-07-30"
-        },
-        {
-            "name": "ULR1880",
-            "minimum_fl": 0,
-            "maximum_fl": 669,
-            "start_datetime": "2025-07-29T07:00:00Z",
-            "end_datetime": "2025-07-29T15:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-07-29"
         },
         {
             "name": "ULR1880",
@@ -972,15 +954,6 @@
             "name": "ULR88",
             "minimum_fl": 0,
             "maximum_fl": 24,
-            "start_datetime": "2025-07-29T07:00:00Z",
-            "end_datetime": "2025-07-29T15:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-07-29"
-        },
-        {
-            "name": "ULR88",
-            "minimum_fl": 0,
-            "maximum_fl": 24,
             "start_datetime": "2025-07-30T07:00:00Z",
             "end_datetime": "2025-07-30T15:00:00Z",
             "remark": "MAMSL",
@@ -994,15 +967,6 @@
             "end_datetime": "2025-07-30T11:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-07-30"
-        },
-        {
-            "name": "ULR91",
-            "minimum_fl": 0,
-            "maximum_fl": 32,
-            "start_datetime": "2025-07-29T06:00:00Z",
-            "end_datetime": "2025-07-29T15:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-07-29"
         },
         {
             "name": "ULR91",
