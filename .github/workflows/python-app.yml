@@ -10,6 +10,7 @@ on:
     branches: [ "main" ]
   schedule:
     - cron: '0 */3 * * *'  # Запуск каждые 3 часа (в 00 минут каждые 3-й часа)
+  workflow_dispatch:
 
 permissions:
   contents: write  # Разрешение на запись для коммита в репозиторий
