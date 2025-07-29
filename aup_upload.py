@@ -35,7 +35,7 @@ def determine_remark(level_str):
 def fetch_xml_data():
     """Загружает XML данные из URL, указанного в переменных окружения"""
     try:
-        url = 'https://app.matfmc.ru/AirspaceAvailabilityBulletinXML/tra'
+        url = os.getenv("XML_DATA_URL")
         if not url:
             raise ValueError("XML_DATA_URL не указан в переменных окружения")
 
