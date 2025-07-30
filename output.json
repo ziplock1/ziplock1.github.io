@@ -1,17 +1,17 @@
 {
     "notice_info": {
-        "valid_wef": "2025-07-30T01:01:18Z",
-        "valid_til": "2025-07-30T02:01:18Z",
-        "released_on": "2025-07-30T01:01:18Z"
+        "valid_wef": "2025-07-30T06:20:46Z",
+        "valid_til": "2025-07-30T07:20:46Z",
+        "released_on": "2025-07-30T06:20:46Z"
     },
     "areas": [
         {
             "name": "ULR104",
             "minimum_fl": 60,
             "maximum_fl": 410,
-            "start_datetime": "2025-07-30T05:00:00Z",
+            "start_datetime": "2025-07-30T05:30:00Z",
             "end_datetime": "2025-07-30T15:00:00Z",
-            "remark": "MAMSL, FL",
+            "remark": "MAMSL",
             "active_date": "2025-07-30"
         },
         {
@@ -90,7 +90,7 @@
             "name": "ULR16",
             "minimum_fl": 0,
             "maximum_fl": 390,
-            "start_datetime": "2025-07-30T05:00:00Z",
+            "start_datetime": "2025-07-30T05:30:00Z",
             "end_datetime": "2025-07-30T11:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-07-30"
@@ -108,9 +108,9 @@
             "name": "ULR166",
             "minimum_fl": 370,
             "maximum_fl": 610,
-            "start_datetime": "2025-07-30T07:00:00Z",
+            "start_datetime": "2025-07-30T09:00:00Z",
             "end_datetime": "2025-07-30T17:00:00Z",
-            "remark": "FL",
+            "remark": "MAMSL",
             "active_date": "2025-07-30"
         },
         {
