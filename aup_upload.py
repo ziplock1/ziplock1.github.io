@@ -47,7 +47,7 @@ def fetch_xml_data():
         response = requests.get(
             url,
             proxies=proxy_settings,
-            timeout=10,
+            timeout=60,
             verify=False
         )
         response.raise_for_status()
