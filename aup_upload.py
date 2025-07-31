@@ -64,7 +64,7 @@ def process_tra_zone(tra, target_date):
     """Обрабатывает зону TRA и возвращает данные, если активна в target_date"""
     zc = tra.find("zc").text.strip() if tra.find("zc") is not None else ""
 
-    if "ULLL" not in zc:
+    if "ULLL" and "UUWV" not in zc:
         return None
 
     area_code = tra.find("areacode").text.strip() if tra.find("areacode") is not None else ""
