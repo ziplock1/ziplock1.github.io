@@ -1,8 +1,8 @@
 {
     "notice_info": {
-        "valid_wef": "2025-08-02T18:16:04Z",
-        "valid_til": "2025-08-02T19:16:04Z",
-        "released_on": "2025-08-02T18:16:04Z"
+        "valid_wef": "2025-08-02T21:11:04Z",
+        "valid_til": "2025-08-02T22:11:04Z",
+        "released_on": "2025-08-02T21:11:04Z"
     },
     "areas": [
         {
@@ -333,15 +333,6 @@
             "name": "ULR3",
             "minimum_fl": 0,
             "maximum_fl": 60,
-            "start_datetime": "2025-08-02T03:00:00Z",
-            "end_datetime": "2025-08-02T19:00:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-08-02"
-        },
-        {
-            "name": "ULR3",
-            "minimum_fl": 0,
-            "maximum_fl": 60,
             "start_datetime": "2025-08-03T03:00:00Z",
             "end_datetime": "2025-08-03T19:00:00Z",
             "remark": "MAMSL, FL",
@@ -598,15 +589,6 @@
             "end_datetime": "2025-08-03T17:00:00Z",
             "remark": "MAGL, FL",
             "active_date": "2025-08-03"
-        },
-        {
-            "name": "UUR235",
-            "minimum_fl": 0,
-            "maximum_fl": 260,
-            "start_datetime": "2025-08-02T05:00:00Z",
-            "end_datetime": "2025-08-02T21:00:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-08-02"
         },
         {
             "name": "UUR235",
