@@ -1,8 +1,8 @@
 {
     "notice_info": {
-        "valid_wef": "2025-08-10T01:05:04Z",
-        "valid_til": "2025-08-10T02:05:04Z",
-        "released_on": "2025-08-10T01:05:04Z"
+        "valid_wef": "2025-08-10T03:59:11Z",
+        "valid_til": "2025-08-10T04:59:11Z",
+        "released_on": "2025-08-10T03:59:11Z"
     },
     "areas": [
         {
@@ -474,6 +474,24 @@
             "active_date": "2025-08-10"
         },
         {
+            "name": "UUR235",
+            "minimum_fl": 0,
+            "maximum_fl": 260,
+            "start_datetime": "2025-08-11T05:00:00Z",
+            "end_datetime": "2025-08-11T21:00:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-08-11"
+        },
+        {
+            "name": "UUR235",
+            "minimum_fl": 0,
+            "maximum_fl": 260,
+            "start_datetime": "2025-08-11T10:30:00Z",
+            "end_datetime": "2025-08-11T20:30:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-08-11"
+        },
+        {
             "name": "UUR236",
             "minimum_fl": 70,
             "maximum_fl": 260,
@@ -638,19 +656,19 @@
         {
             "name": "UUR352",
             "minimum_fl": 0,
-            "maximum_fl": 110,
-            "start_datetime": "2025-08-10T05:00:00Z",
+            "maximum_fl": 3,
+            "start_datetime": "2025-08-10T06:00:00Z",
             "end_datetime": "2025-08-10T23:59:00Z",
-            "remark": "MAGL, FL",
+            "remark": "MAGL, MAMSL",
             "active_date": "2025-08-10"
         },
         {
             "name": "UUR352",
             "minimum_fl": 0,
-            "maximum_fl": 110,
+            "maximum_fl": 3,
             "start_datetime": "2025-08-11T00:00:00Z",
-            "end_datetime": "2025-08-11T01:00:00Z",
-            "remark": "MAGL, FL",
+            "end_datetime": "2025-08-11T20:00:00Z",
+            "remark": "MAGL, MAMSL",
             "active_date": "2025-08-11"
         },
         {
@@ -697,15 +715,6 @@
             "end_datetime": "2025-08-11T23:00:00Z",
             "remark": "MAGL, FL",
             "active_date": "2025-08-11"
-        },
-        {
-            "name": "UUR366",
-            "minimum_fl": 0,
-            "maximum_fl": 180,
-            "start_datetime": "2025-08-10T00:00:00Z",
-            "end_datetime": "2025-08-10T03:00:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-08-10"
         },
         {
             "name": "UUR366",
