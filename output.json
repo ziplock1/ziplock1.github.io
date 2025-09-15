@@ -1,25 +1,25 @@
 {
     "notice_info": {
-        "valid_wef": "2025-09-14T15:09:21Z",
-        "valid_til": "2025-09-14T16:09:21Z",
-        "released_on": "2025-09-14T15:09:21Z"
+        "valid_wef": "2025-09-15T03:34:25Z",
+        "valid_til": "2025-09-15T04:34:25Z",
+        "released_on": "2025-09-15T03:34:25Z"
     },
     "areas": [
         {
             "name": "ULR100",
             "minimum_fl": 60,
             "maximum_fl": 410,
-            "start_datetime": "2025-09-14T04:00:00Z",
-            "end_datetime": "2025-09-14T15:30:00Z",
+            "start_datetime": "2025-09-15T10:00:00Z",
+            "end_datetime": "2025-09-15T21:00:00Z",
             "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-15"
         },
         {
             "name": "ULR100",
             "minimum_fl": 60,
             "maximum_fl": 410,
-            "start_datetime": "2025-09-15T10:00:00Z",
-            "end_datetime": "2025-09-15T21:00:00Z",
+            "start_datetime": "2025-09-15T10:10:00Z",
+            "end_datetime": "2025-09-15T11:43:00Z",
             "remark": "MAMSL, FL",
             "active_date": "2025-09-15"
         },
@@ -36,8 +36,26 @@
             "name": "ULR103",
             "minimum_fl": 0,
             "maximum_fl": 49,
-            "start_datetime": "2025-09-15T00:10:00Z",
-            "end_datetime": "2025-09-15T00:12:00Z",
+            "start_datetime": "2025-09-15T09:00:00Z",
+            "end_datetime": "2025-09-15T12:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-15"
+        },
+        {
+            "name": "ULR103",
+            "minimum_fl": 0,
+            "maximum_fl": 49,
+            "start_datetime": "2025-09-15T12:05:00Z",
+            "end_datetime": "2025-09-15T12:25:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-15"
+        },
+        {
+            "name": "ULR103",
+            "minimum_fl": 0,
+            "maximum_fl": 49,
+            "start_datetime": "2025-09-15T12:06:00Z",
+            "end_datetime": "2025-09-15T12:26:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
         },
@@ -45,8 +63,26 @@
             "name": "ULR104",
             "minimum_fl": 60,
             "maximum_fl": 410,
-            "start_datetime": "2025-09-15T00:12:00Z",
-            "end_datetime": "2025-09-15T00:15:00Z",
+            "start_datetime": "2025-09-15T09:00:00Z",
+            "end_datetime": "2025-09-15T12:00:00Z",
+            "remark": "MAMSL, FL",
+            "active_date": "2025-09-15"
+        },
+        {
+            "name": "ULR104",
+            "minimum_fl": 60,
+            "maximum_fl": 410,
+            "start_datetime": "2025-09-15T12:25:00Z",
+            "end_datetime": "2025-09-15T12:46:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-15"
+        },
+        {
+            "name": "ULR104",
+            "minimum_fl": 60,
+            "maximum_fl": 410,
+            "start_datetime": "2025-09-15T12:26:00Z",
+            "end_datetime": "2025-09-15T12:47:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
         },
@@ -72,28 +108,10 @@
             "name": "ULR148",
             "minimum_fl": 0,
             "maximum_fl": 139,
-            "start_datetime": "2025-09-14T05:00:00Z",
-            "end_datetime": "2025-09-14T22:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR148",
-            "minimum_fl": 0,
-            "maximum_fl": 139,
             "start_datetime": "2025-09-15T05:00:00Z",
             "end_datetime": "2025-09-15T22:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR149",
-            "minimum_fl": 0,
-            "maximum_fl": 200,
-            "start_datetime": "2025-09-14T05:00:00Z",
-            "end_datetime": "2025-09-14T22:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR149",
@@ -108,15 +126,6 @@
             "name": "ULR150",
             "minimum_fl": 0,
             "maximum_fl": 139,
-            "start_datetime": "2025-09-14T05:00:00Z",
-            "end_datetime": "2025-09-14T22:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR150",
-            "minimum_fl": 0,
-            "maximum_fl": 139,
             "start_datetime": "2025-09-15T05:00:00Z",
             "end_datetime": "2025-09-15T22:00:00Z",
             "remark": "MAMSL",
@@ -126,28 +135,10 @@
             "name": "ULR151",
             "minimum_fl": 0,
             "maximum_fl": 150,
-            "start_datetime": "2025-09-14T05:00:00Z",
-            "end_datetime": "2025-09-14T22:00:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR151",
-            "minimum_fl": 0,
-            "maximum_fl": 150,
             "start_datetime": "2025-09-15T05:00:00Z",
             "end_datetime": "2025-09-15T22:00:00Z",
             "remark": "MAMSL, FL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR152",
-            "minimum_fl": 0,
-            "maximum_fl": 32,
-            "start_datetime": "2025-09-14T00:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR152",
@@ -157,15 +148,6 @@
             "end_datetime": "2025-09-15T23:59:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR16",
-            "minimum_fl": 0,
-            "maximum_fl": 390,
-            "start_datetime": "2025-09-14T17:00:00Z",
-            "end_datetime": "2025-09-14T22:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR16",
@@ -216,24 +198,6 @@
             "name": "ULR17",
             "minimum_fl": 0,
             "maximum_fl": 26,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T16:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR17",
-            "minimum_fl": 0,
-            "maximum_fl": 26,
-            "start_datetime": "2025-09-14T17:00:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR17",
-            "minimum_fl": 0,
-            "maximum_fl": 26,
             "start_datetime": "2025-09-15T06:00:00Z",
             "end_datetime": "2025-09-15T16:00:00Z",
             "remark": "MAMSL",
@@ -252,15 +216,6 @@
             "name": "ULR1829",
             "minimum_fl": 0,
             "maximum_fl": 19,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR1829",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
             "start_datetime": "2025-09-15T06:00:00Z",
             "end_datetime": "2025-09-15T18:00:00Z",
             "remark": "MAMSL",
@@ -270,28 +225,10 @@
             "name": "ULR1839",
             "minimum_fl": 0,
             "maximum_fl": 14,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR1839",
-            "minimum_fl": 0,
-            "maximum_fl": 14,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR1840",
-            "minimum_fl": 0,
-            "maximum_fl": 14,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR1840",
@@ -306,28 +243,10 @@
             "name": "ULR1844",
             "minimum_fl": 0,
             "maximum_fl": 19,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR1844",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR185",
-            "minimum_fl": 0,
-            "maximum_fl": 9,
-            "start_datetime": "2025-09-14T04:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR185",
@@ -360,28 +279,10 @@
             "name": "ULR186",
             "minimum_fl": 0,
             "maximum_fl": 9,
-            "start_datetime": "2025-09-14T04:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR186",
-            "minimum_fl": 0,
-            "maximum_fl": 9,
             "start_datetime": "2025-09-15T04:00:00Z",
             "end_datetime": "2025-09-15T18:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR187",
-            "minimum_fl": 0,
-            "maximum_fl": 9,
-            "start_datetime": "2025-09-14T04:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR187",
@@ -414,28 +315,10 @@
             "name": "ULR195",
             "minimum_fl": 0,
             "maximum_fl": 19,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR195",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
             "start_datetime": "2025-09-15T06:00:00Z",
             "end_datetime": "2025-09-15T18:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR21",
-            "minimum_fl": 0,
-            "maximum_fl": 984,
-            "start_datetime": "2025-09-14T17:00:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR21",
@@ -459,15 +342,6 @@
             "name": "ULR22",
             "minimum_fl": 0,
             "maximum_fl": 36,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR22",
-            "minimum_fl": 0,
-            "maximum_fl": 36,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
@@ -477,37 +351,10 @@
             "name": "ULR23",
             "minimum_fl": 0,
             "maximum_fl": 36,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR23",
-            "minimum_fl": 0,
-            "maximum_fl": 36,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR24",
-            "minimum_fl": 0,
-            "maximum_fl": 70,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T16:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR24",
-            "minimum_fl": 0,
-            "maximum_fl": 70,
-            "start_datetime": "2025-09-14T17:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR24",
@@ -531,24 +378,6 @@
             "name": "ULR25",
             "minimum_fl": 0,
             "maximum_fl": 170,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T16:00:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR25",
-            "minimum_fl": 0,
-            "maximum_fl": 170,
-            "start_datetime": "2025-09-14T17:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR25",
-            "minimum_fl": 0,
-            "maximum_fl": 170,
             "start_datetime": "2025-09-15T06:00:00Z",
             "end_datetime": "2025-09-15T16:00:00Z",
             "remark": "MAMSL, FL",
@@ -562,15 +391,6 @@
             "end_datetime": "2025-09-15T23:59:00Z",
             "remark": "MAMSL, FL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR28",
-            "minimum_fl": 0,
-            "maximum_fl": 290,
-            "start_datetime": "2025-09-14T00:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR28",
@@ -585,28 +405,10 @@
             "name": "ULR30",
             "minimum_fl": 0,
             "maximum_fl": 100,
-            "start_datetime": "2025-09-14T05:00:00Z",
-            "end_datetime": "2025-09-14T22:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR30",
-            "minimum_fl": 0,
-            "maximum_fl": 100,
             "start_datetime": "2025-09-15T05:00:00Z",
             "end_datetime": "2025-09-15T22:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR31",
-            "minimum_fl": 0,
-            "maximum_fl": 100,
-            "start_datetime": "2025-09-14T05:30:00Z",
-            "end_datetime": "2025-09-14T21:50:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR31",
@@ -621,28 +423,10 @@
             "name": "ULR32",
             "minimum_fl": 0,
             "maximum_fl": 32,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR32",
-            "minimum_fl": 0,
-            "maximum_fl": 32,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR33",
-            "minimum_fl": 0,
-            "maximum_fl": 32,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR33",
@@ -657,15 +441,6 @@
             "name": "ULR34",
             "minimum_fl": 0,
             "maximum_fl": 27,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR34",
-            "minimum_fl": 0,
-            "maximum_fl": 27,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
@@ -675,28 +450,10 @@
             "name": "ULR35",
             "minimum_fl": 0,
             "maximum_fl": 31,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR35",
-            "minimum_fl": 0,
-            "maximum_fl": 31,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR36",
-            "minimum_fl": 0,
-            "maximum_fl": 49,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR36",
@@ -735,13 +492,22 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "ULR49",
+            "name": "ULR4",
             "minimum_fl": 0,
-            "maximum_fl": 29,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
+            "maximum_fl": 400,
+            "start_datetime": "2025-09-15T10:30:00Z",
+            "end_datetime": "2025-09-15T11:30:00Z",
             "remark": "MAMSL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-15"
+        },
+        {
+            "name": "ULR4",
+            "minimum_fl": 0,
+            "maximum_fl": 400,
+            "start_datetime": "2025-09-15T10:31:00Z",
+            "end_datetime": "2025-09-15T11:31:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-15"
         },
         {
             "name": "ULR49",
@@ -751,15 +517,6 @@
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR55",
-            "minimum_fl": 0,
-            "maximum_fl": 150,
-            "start_datetime": "2025-09-14T13:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR55",
@@ -783,15 +540,6 @@
             "name": "ULR56",
             "minimum_fl": 0,
             "maximum_fl": 36,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR56",
-            "minimum_fl": 0,
-            "maximum_fl": 36,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAGL, MAMSL",
@@ -801,28 +549,10 @@
             "name": "ULR58",
             "minimum_fl": 0,
             "maximum_fl": 36,
-            "start_datetime": "2025-09-14T07:00:00Z",
-            "end_datetime": "2025-09-14T17:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR58",
-            "minimum_fl": 0,
-            "maximum_fl": 36,
             "start_datetime": "2025-09-15T07:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAGL, MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR60",
-            "minimum_fl": 0,
-            "maximum_fl": 42,
-            "start_datetime": "2025-09-14T09:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR60",
@@ -832,15 +562,6 @@
             "end_datetime": "2025-09-15T18:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR61",
-            "minimum_fl": 0,
-            "maximum_fl": 42,
-            "start_datetime": "2025-09-14T08:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR61",
@@ -855,28 +576,10 @@
             "name": "ULR69",
             "minimum_fl": 0,
             "maximum_fl": 19,
-            "start_datetime": "2025-09-14T09:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR69",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
             "start_datetime": "2025-09-15T09:00:00Z",
             "end_datetime": "2025-09-15T18:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR70",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
-            "start_datetime": "2025-09-14T09:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR70",
@@ -891,28 +594,10 @@
             "name": "ULR72",
             "minimum_fl": 0,
             "maximum_fl": 19,
-            "start_datetime": "2025-09-14T09:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR72",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
             "start_datetime": "2025-09-15T09:00:00Z",
             "end_datetime": "2025-09-15T18:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR73",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
-            "start_datetime": "2025-09-14T09:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR73",
@@ -927,28 +612,10 @@
             "name": "ULR74",
             "minimum_fl": 0,
             "maximum_fl": 19,
-            "start_datetime": "2025-09-14T09:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "ULR74",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
             "start_datetime": "2025-09-15T09:00:00Z",
             "end_datetime": "2025-09-15T18:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "ULR75",
-            "minimum_fl": 0,
-            "maximum_fl": 19,
-            "start_datetime": "2025-09-14T09:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "ULR75",
@@ -1021,15 +688,6 @@
             "end_datetime": "2025-09-15T19:00:00Z",
             "remark": "MAMSL, FL",
             "active_date": "2025-09-15"
-        },
-        {
-            "name": "UUR212",
-            "minimum_fl": 140,
-            "maximum_fl": 260,
-            "start_datetime": "2025-09-14T00:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "FL",
-            "active_date": "2025-09-14"
         },
         {
             "name": "UUR212",
@@ -1167,6 +825,15 @@
             "active_date": "2025-09-15"
         },
         {
+            "name": "UUR220",
+            "minimum_fl": 0,
+            "maximum_fl": 14,
+            "start_datetime": "2025-09-16T15:00:00Z",
+            "end_datetime": "2025-09-16T21:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
             "name": "UUR221",
             "minimum_fl": 70,
             "maximum_fl": 280,
@@ -1191,15 +858,6 @@
             "start_datetime": "2025-09-15T06:00:00Z",
             "end_datetime": "2025-09-15T17:00:00Z",
             "remark": "MAMSL, FL",
-            "active_date": "2025-09-15"
-        },
-        {
-            "name": "UUR235",
-            "minimum_fl": 0,
-            "maximum_fl": 140,
-            "start_datetime": "2025-09-15T03:00:00Z",
-            "end_datetime": "2025-09-15T10:00:00Z",
-            "remark": "MAGL, FL",
             "active_date": "2025-09-15"
         },
         {
@@ -1237,6 +895,24 @@
             "end_datetime": "2025-09-15T22:30:00Z",
             "remark": "MAGL, FL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR235",
+            "minimum_fl": 0,
+            "maximum_fl": 140,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T10:00:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR235",
+            "minimum_fl": 0,
+            "maximum_fl": 140,
+            "start_datetime": "2025-09-16T09:10:00Z",
+            "end_datetime": "2025-09-16T19:00:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR236",
@@ -1302,6 +978,24 @@
             "active_date": "2025-09-15"
         },
         {
+            "name": "UUR240",
+            "minimum_fl": 39,
+            "maximum_fl": 140,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T10:00:00Z",
+            "remark": "MAMSL, FL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR240",
+            "minimum_fl": 39,
+            "maximum_fl": 140,
+            "start_datetime": "2025-09-16T09:10:00Z",
+            "end_datetime": "2025-09-16T19:00:00Z",
+            "remark": "MAMSL, FL",
+            "active_date": "2025-09-16"
+        },
+        {
             "name": "UUR242",
             "minimum_fl": 70,
             "maximum_fl": 820,
@@ -1332,15 +1026,6 @@
             "name": "UUR246",
             "minimum_fl": 0,
             "maximum_fl": 140,
-            "start_datetime": "2025-09-14T00:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "UUR246",
-            "minimum_fl": 0,
-            "maximum_fl": 140,
             "start_datetime": "2025-09-15T00:00:00Z",
             "end_datetime": "2025-09-15T23:59:00Z",
             "remark": "MAGL, FL",
@@ -1350,28 +1035,19 @@
             "name": "UUR249",
             "minimum_fl": 13,
             "maximum_fl": 140,
-            "start_datetime": "2025-09-14T00:10:00Z",
-            "end_datetime": "2025-09-14T23:50:00Z",
+            "start_datetime": "2025-09-15T00:10:00Z",
+            "end_datetime": "2025-09-15T23:50:00Z",
             "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-15"
         },
         {
             "name": "UUR249",
             "minimum_fl": 13,
             "maximum_fl": 140,
-            "start_datetime": "2025-09-15T00:10:00Z",
-            "end_datetime": "2025-09-15T23:50:00Z",
+            "start_datetime": "2025-09-16T00:10:00Z",
+            "end_datetime": "2025-09-16T23:50:00Z",
             "remark": "MAMSL, FL",
-            "active_date": "2025-09-15"
-        },
-        {
-            "name": "UUR251",
-            "minimum_fl": 70,
-            "maximum_fl": 270,
-            "start_datetime": "2025-09-14T00:10:00Z",
-            "end_datetime": "2025-09-14T23:50:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR251",
@@ -1381,6 +1057,15 @@
             "end_datetime": "2025-09-15T23:50:00Z",
             "remark": "MAMSL, FL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR251",
+            "minimum_fl": 70,
+            "maximum_fl": 270,
+            "start_datetime": "2025-09-16T00:10:00Z",
+            "end_datetime": "2025-09-16T23:50:00Z",
+            "remark": "MAMSL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR254",
@@ -1395,19 +1080,19 @@
             "name": "UUR255",
             "minimum_fl": 100,
             "maximum_fl": 200,
-            "start_datetime": "2025-09-14T00:01:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
+            "start_datetime": "2025-09-15T00:01:00Z",
+            "end_datetime": "2025-09-15T23:59:00Z",
             "remark": "FL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-15"
         },
         {
             "name": "UUR255",
             "minimum_fl": 100,
             "maximum_fl": 200,
-            "start_datetime": "2025-09-15T00:01:00Z",
-            "end_datetime": "2025-09-15T23:59:00Z",
+            "start_datetime": "2025-09-16T00:01:00Z",
+            "end_datetime": "2025-09-16T23:59:00Z",
             "remark": "FL",
-            "active_date": "2025-09-15"
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR256",
@@ -1417,6 +1102,15 @@
             "end_datetime": "2025-09-15T20:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR256",
+            "minimum_fl": 0,
+            "maximum_fl": 21,
+            "start_datetime": "2025-09-16T06:00:00Z",
+            "end_datetime": "2025-09-16T20:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR257",
@@ -1435,6 +1129,24 @@
             "end_datetime": "2025-09-15T19:00:00Z",
             "remark": "MAMSL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR257",
+            "minimum_fl": 0,
+            "maximum_fl": 16,
+            "start_datetime": "2025-09-16T05:00:00Z",
+            "end_datetime": "2025-09-16T13:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR257",
+            "minimum_fl": 0,
+            "maximum_fl": 16,
+            "start_datetime": "2025-09-16T16:00:00Z",
+            "end_datetime": "2025-09-16T19:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR258",
@@ -1521,37 +1233,19 @@
             "name": "UUR341",
             "minimum_fl": 0,
             "maximum_fl": 140,
-            "start_datetime": "2025-09-14T05:30:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "UUR341",
-            "minimum_fl": 0,
-            "maximum_fl": 140,
             "start_datetime": "2025-09-15T05:30:00Z",
             "end_datetime": "2025-09-15T23:00:00Z",
             "remark": "MAGL, FL",
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR343",
+            "name": "UUR341",
             "minimum_fl": 0,
-            "maximum_fl": 39,
-            "start_datetime": "2025-09-14T17:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "UUR343",
-            "minimum_fl": 0,
-            "maximum_fl": 39,
-            "start_datetime": "2025-09-15T00:00:00Z",
-            "end_datetime": "2025-09-15T02:00:00Z",
-            "remark": "MAMSL",
-            "active_date": "2025-09-15"
+            "maximum_fl": 140,
+            "start_datetime": "2025-09-16T05:30:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR343",
@@ -1572,45 +1266,36 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR344",
+            "name": "UUR343",
             "minimum_fl": 0,
-            "maximum_fl": 85,
-            "start_datetime": "2025-09-14T03:00:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
+            "maximum_fl": 39,
+            "start_datetime": "2025-09-16T00:00:00Z",
+            "end_datetime": "2025-09-16T02:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
         },
         {
-            "name": "UUR344",
+            "name": "UUR343",
             "minimum_fl": 0,
-            "maximum_fl": 121,
-            "start_datetime": "2025-09-14T03:00:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
+            "maximum_fl": 39,
+            "start_datetime": "2025-09-16T06:00:00Z",
+            "end_datetime": "2025-09-16T15:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR343",
+            "minimum_fl": 0,
+            "maximum_fl": 39,
+            "start_datetime": "2025-09-16T17:00:00Z",
+            "end_datetime": "2025-09-16T23:59:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR344",
             "minimum_fl": 0,
             "maximum_fl": 45,
-            "start_datetime": "2025-09-14T03:00:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "UUR344",
-            "minimum_fl": 0,
-            "maximum_fl": 45,
-            "start_datetime": "2025-09-15T03:00:00Z",
-            "end_datetime": "2025-09-15T23:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-15"
-        },
-        {
-            "name": "UUR344",
-            "minimum_fl": 0,
-            "maximum_fl": 85,
             "start_datetime": "2025-09-15T03:00:00Z",
             "end_datetime": "2025-09-15T23:00:00Z",
             "remark": "MAGL, MAMSL",
@@ -1624,6 +1309,42 @@
             "end_datetime": "2025-09-15T23:00:00Z",
             "remark": "MAGL, MAMSL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR344",
+            "minimum_fl": 0,
+            "maximum_fl": 85,
+            "start_datetime": "2025-09-15T03:00:00Z",
+            "end_datetime": "2025-09-15T23:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR344",
+            "minimum_fl": 0,
+            "maximum_fl": 45,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR344",
+            "minimum_fl": 0,
+            "maximum_fl": 85,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR344",
+            "minimum_fl": 0,
+            "maximum_fl": 121,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR345",
@@ -1635,13 +1356,13 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR346",
+            "name": "UUR345",
             "minimum_fl": 0,
-            "maximum_fl": 88,
-            "start_datetime": "2025-09-14T17:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
+            "maximum_fl": 60,
+            "start_datetime": "2025-09-16T05:00:00Z",
+            "end_datetime": "2025-09-16T22:00:00Z",
             "remark": "MAMSL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR346",
@@ -1662,6 +1383,24 @@
             "active_date": "2025-09-15"
         },
         {
+            "name": "UUR346",
+            "minimum_fl": 0,
+            "maximum_fl": 310,
+            "start_datetime": "2025-09-16T05:00:00Z",
+            "end_datetime": "2025-09-16T14:00:00Z",
+            "remark": "MAMSL, FL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR346",
+            "minimum_fl": 0,
+            "maximum_fl": 88,
+            "start_datetime": "2025-09-16T17:00:00Z",
+            "end_datetime": "2025-09-16T23:59:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
             "name": "UUR348",
             "minimum_fl": 0,
             "maximum_fl": 57,
@@ -1671,13 +1410,13 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR349",
+            "name": "UUR348",
             "minimum_fl": 0,
-            "maximum_fl": 44,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T20:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
+            "maximum_fl": 57,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR349",
@@ -1689,22 +1428,13 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR352",
+            "name": "UUR349",
             "minimum_fl": 0,
-            "maximum_fl": 110,
-            "start_datetime": "2025-09-14T05:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "UUR352",
-            "minimum_fl": 0,
-            "maximum_fl": 110,
-            "start_datetime": "2025-09-15T00:00:00Z",
-            "end_datetime": "2025-09-15T01:00:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-09-15"
+            "maximum_fl": 44,
+            "start_datetime": "2025-09-16T06:00:00Z",
+            "end_datetime": "2025-09-16T20:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR352",
@@ -1716,13 +1446,22 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR357",
+            "name": "UUR352",
             "minimum_fl": 0,
-            "maximum_fl": 150,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
+            "maximum_fl": 110,
+            "start_datetime": "2025-09-16T00:00:00Z",
+            "end_datetime": "2025-09-16T01:00:00Z",
             "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR352",
+            "minimum_fl": 0,
+            "maximum_fl": 110,
+            "start_datetime": "2025-09-16T05:00:00Z",
+            "end_datetime": "2025-09-16T23:59:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR357",
@@ -1734,13 +1473,13 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR359",
+            "name": "UUR357",
             "minimum_fl": 0,
-            "maximum_fl": 360,
-            "start_datetime": "2025-09-14T05:30:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
+            "maximum_fl": 150,
+            "start_datetime": "2025-09-16T06:00:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
             "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR359",
@@ -1752,22 +1491,13 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR366",
+            "name": "UUR359",
             "minimum_fl": 0,
-            "maximum_fl": 180,
-            "start_datetime": "2025-09-14T18:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
+            "maximum_fl": 360,
+            "start_datetime": "2025-09-16T05:30:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
             "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "UUR366",
-            "minimum_fl": 0,
-            "maximum_fl": 180,
-            "start_datetime": "2025-09-15T00:00:00Z",
-            "end_datetime": "2025-09-15T03:00:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-09-15"
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR366",
@@ -1779,22 +1509,22 @@
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR367",
+            "name": "UUR366",
             "minimum_fl": 0,
-            "maximum_fl": 820,
-            "start_datetime": "2025-09-14T00:00:00Z",
-            "end_datetime": "2025-09-14T23:59:00Z",
+            "maximum_fl": 180,
+            "start_datetime": "2025-09-16T00:00:00Z",
+            "end_datetime": "2025-09-16T03:00:00Z",
             "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-16"
         },
         {
-            "name": "UUR367",
-            "minimum_fl": 6,
-            "maximum_fl": 165,
-            "start_datetime": "2025-09-14T03:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAMSL, FL",
-            "active_date": "2025-09-14"
+            "name": "UUR366",
+            "minimum_fl": 0,
+            "maximum_fl": 180,
+            "start_datetime": "2025-09-16T18:00:00Z",
+            "end_datetime": "2025-09-16T23:59:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR367",
@@ -1815,6 +1545,24 @@
             "active_date": "2025-09-15"
         },
         {
+            "name": "UUR367",
+            "minimum_fl": 0,
+            "maximum_fl": 820,
+            "start_datetime": "2025-09-16T00:00:00Z",
+            "end_datetime": "2025-09-16T23:59:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR367",
+            "minimum_fl": 6,
+            "maximum_fl": 165,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T21:00:00Z",
+            "remark": "MAMSL, FL",
+            "active_date": "2025-09-16"
+        },
+        {
             "name": "UUR369",
             "minimum_fl": 0,
             "maximum_fl": 70,
@@ -1822,6 +1570,15 @@
             "end_datetime": "2025-09-15T21:00:00Z",
             "remark": "MAGL, MAMSL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR369",
+            "minimum_fl": 0,
+            "maximum_fl": 70,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T21:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR370",
@@ -1833,6 +1590,15 @@
             "active_date": "2025-09-15"
         },
         {
+            "name": "UUR370",
+            "minimum_fl": 0,
+            "maximum_fl": 109,
+            "start_datetime": "2025-09-16T07:00:00Z",
+            "end_datetime": "2025-09-16T13:00:00Z",
+            "remark": "MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
             "name": "UUR372",
             "minimum_fl": 0,
             "maximum_fl": 140,
@@ -1840,6 +1606,15 @@
             "end_datetime": "2025-09-15T21:00:00Z",
             "remark": "MAGL, FL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR372",
+            "minimum_fl": 0,
+            "maximum_fl": 140,
+            "start_datetime": "2025-09-16T07:00:00Z",
+            "end_datetime": "2025-09-16T21:00:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR375",
@@ -1871,15 +1646,6 @@
         {
             "name": "UUR389",
             "minimum_fl": 0,
-            "maximum_fl": 70,
-            "start_datetime": "2025-09-15T03:00:00Z",
-            "end_datetime": "2025-09-15T10:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-15"
-        },
-        {
-            "name": "UUR389",
-            "minimum_fl": 0,
             "maximum_fl": 160,
             "start_datetime": "2025-09-15T05:00:00Z",
             "end_datetime": "2025-09-15T21:00:00Z",
@@ -1905,6 +1671,24 @@
             "active_date": "2025-09-15"
         },
         {
+            "name": "UUR389",
+            "minimum_fl": 0,
+            "maximum_fl": 70,
+            "start_datetime": "2025-09-16T03:00:00Z",
+            "end_datetime": "2025-09-16T10:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
+            "name": "UUR389",
+            "minimum_fl": 0,
+            "maximum_fl": 70,
+            "start_datetime": "2025-09-16T09:10:00Z",
+            "end_datetime": "2025-09-16T19:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
             "name": "UUR390",
             "minimum_fl": 0,
             "maximum_fl": 80,
@@ -1914,6 +1698,15 @@
             "active_date": "2025-09-15"
         },
         {
+            "name": "UUR390",
+            "minimum_fl": 0,
+            "maximum_fl": 80,
+            "start_datetime": "2025-09-16T07:00:00Z",
+            "end_datetime": "2025-09-16T13:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
+        },
+        {
             "name": "UUR407",
             "minimum_fl": 0,
             "maximum_fl": 400,
@@ -1921,6 +1714,15 @@
             "end_datetime": "2025-09-15T23:59:00Z",
             "remark": "MAGL, FL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR407",
+            "minimum_fl": 0,
+            "maximum_fl": 400,
+            "start_datetime": "2025-09-16T05:00:00Z",
+            "end_datetime": "2025-09-16T23:59:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR408",
@@ -1998,28 +1800,19 @@
             "name": "UUR424",
             "minimum_fl": 0,
             "maximum_fl": 120,
-            "start_datetime": "2025-09-14T05:00:00Z",
-            "end_datetime": "2025-09-14T21:00:00Z",
-            "remark": "MAGL, FL",
-            "active_date": "2025-09-14"
-        },
-        {
-            "name": "UUR424",
-            "minimum_fl": 0,
-            "maximum_fl": 120,
             "start_datetime": "2025-09-15T05:00:00Z",
             "end_datetime": "2025-09-15T21:00:00Z",
             "remark": "MAGL, FL",
             "active_date": "2025-09-15"
         },
         {
-            "name": "UUR438",
+            "name": "UUR424",
             "minimum_fl": 0,
-            "maximum_fl": 39,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T18:00:00Z",
-            "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
+            "maximum_fl": 120,
+            "start_datetime": "2025-09-16T05:00:00Z",
+            "end_datetime": "2025-09-16T21:00:00Z",
+            "remark": "MAGL, FL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR438",
@@ -2029,6 +1822,15 @@
             "end_datetime": "2025-09-15T23:00:00Z",
             "remark": "MAGL, MAMSL",
             "active_date": "2025-09-15"
+        },
+        {
+            "name": "UUR438",
+            "minimum_fl": 0,
+            "maximum_fl": 39,
+            "start_datetime": "2025-09-16T06:00:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
+            "remark": "MAGL, MAMSL",
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR439",
@@ -2052,19 +1854,19 @@
             "name": "UUR440",
             "minimum_fl": 0,
             "maximum_fl": 27,
-            "start_datetime": "2025-09-14T06:00:00Z",
-            "end_datetime": "2025-09-14T23:00:00Z",
+            "start_datetime": "2025-09-15T06:00:00Z",
+            "end_datetime": "2025-09-15T23:00:00Z",
             "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-14"
+            "active_date": "2025-09-15"
         },
         {
             "name": "UUR440",
             "minimum_fl": 0,
             "maximum_fl": 27,
-            "start_datetime": "2025-09-15T06:00:00Z",
-            "end_datetime": "2025-09-15T23:00:00Z",
+            "start_datetime": "2025-09-16T06:00:00Z",
+            "end_datetime": "2025-09-16T23:00:00Z",
             "remark": "MAGL, MAMSL",
-            "active_date": "2025-09-15"
+            "active_date": "2025-09-16"
         },
         {
             "name": "UUR442",
